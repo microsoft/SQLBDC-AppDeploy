@@ -1,0 +1,4 @@
+name: hello-r
+version: v1
+inputs:
+   msg: hello
