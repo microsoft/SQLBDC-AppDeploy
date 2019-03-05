@@ -1,0 +1,11 @@
+name: hello-r
+version: v1
+runtime: R
+src: ./hello.R
+entrypoint: handler
+replicas: 1
+poolsize: 1
+inputs:
+   msg: character
+output:
+   out: character

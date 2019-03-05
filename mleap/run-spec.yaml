@@ -1,0 +1,3 @@
+name: hello-mleap
+version: v1
+inputs: ./frame.json

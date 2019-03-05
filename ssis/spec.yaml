@@ -1,0 +1,6 @@
+name: hello-ssis
+version: v1
+runtime: SSIS
+entrypoint: ./hello.dtsx
+options: /REP V
+schedule: "*/2 * * * *"

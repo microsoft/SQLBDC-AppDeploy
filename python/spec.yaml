@@ -1,0 +1,11 @@
+name: hello-python
+version: v1
+runtime: Python
+src: ./hello.py
+entrypoint: handler
+replicas: 1
+poolsize: 1
+inputs:
+   msg: str
+output:
+   out: str
