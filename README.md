@@ -15,6 +15,9 @@ Each template contains three primary files:
 - app code
     - Example code for deployment of that particular type of language kernel
 
-These templates are automatically pulled by the mssqlctl CLI and the App Deploy VS Code Extension.  Customers may also download these templates themselves outside of the clients, if desired.
+These templates are automatically pulled by the `mssqlctl` CLI and the App Deploy VS Code Extension.  Customers may also download these templates themselves outside of the clients, if desired.
 
 Future language kernels supported for app deployment will be contributed as templates here.
+
+# Samples
+The [SQL Server Samples](https://github.com/Microsoft/sql-server-samples/tree/master/samples/features/sql-big-data-cluster/app-deploy) repository has a number of sample apps for you to try out.

@@ -1,4 +1,4 @@
 name: hello-mleap
 version: v1
 runtime: Mleap
-bundleFileName: model.lr.zip
+bundleFileName: census_bundle.zip
