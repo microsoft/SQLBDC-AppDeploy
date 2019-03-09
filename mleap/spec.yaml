@@ -1,4 +1,4 @@
 name: hello-mleap
-version: v1
+version: v42
 runtime: Mleap
 bundleFileName: census_bundle.zip
